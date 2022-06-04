@@ -1,0 +1,31 @@
+{
+    "name": "brocoder-theme",
+    "displayName": "brocoder theme",
+    "description": "dark-theme",
+    "version": "0.0.1",
+    "publisher": "rohiiiit",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nagar2817/brocoder-theme.git"
+    },
+    "keywords":[
+        "dark theme",
+        "brocoder theme",
+        "coder theme"
+    ],
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "brocoder theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/brocoder theme-color-theme.json"
+            }
+        ]
+    }
+}
