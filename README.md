@@ -1,5 +1,5 @@
 ## Brocoder theme for `Visual Studio Code`
-<h3 align="center">A suitable theme for passionate coder, recommended too use with Vscode</h3>
+<h3 align="center">A suitable theme for passionate coder, recommended to use with Vscode</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagar2817&label=Profile%20views&color=0e75b6&style=flat" alt="nagar2817" /> </p>
 
